@@ -1,8 +1,8 @@
 name = "Zax Addons"
-filename = "zax-addons-6.4.0+mc26.1.2.jar"
+filename = "zax-addons-6.5.0+mc26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://github.com/zaxlord123/zax-addons/releases/download/v6.4.0/zax-addons-6.4.0%2Bmc26.1.2.jar"
+url = "https://github.com/zaxlord123/zax-addons/releases/download/v6.5.0/zax-addons-6.5.0%2Bmc26.1.2.jar"
 hash-format = "sha256"
-hash = "5ed698b7fd96d3f36440ee9e0bab0a3168551c0307f8ae011845c8b080c28d3e"
+hash = "4785902fe124e1ecb1d7fc3c05f859ff2fea1a46a9a6ceba53236478014897bc"
