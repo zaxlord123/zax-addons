@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "031ec1ac7005d3114e973fc577f7da690bbb03abdf4220d18496c22e3f6b9b02"
+metafile = true
+
+[[files]]
 file = "mods/zax-addons.pw.toml"
 hash = "00189435edecd4bafe4f06282bc81da84fa7d856b5d3ae7db9aec6c5b622fd1e"
 metafile = true
