@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/zax-addons.pw.toml"
+hash = "ed65b7f5ffedeb5ee5c2527b3a3097b35ecc8712bcf0922e94ae155a5718f60d"
+metafile = true
