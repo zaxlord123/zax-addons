@@ -1,3 +1,20 @@
 {
-  "players": {}
+  "players": {
+    "oloking12345": {
+      "items": [
+        "Halo",
+        "Wings",
+        "Crown",
+        "Cape",
+        "Cat ears",
+        "Cat tail",
+        "Devil horns",
+        "Fox tail"
+      ],
+      "color": 11534362,
+      "color2": 2752517,
+      "rainbow": false,
+      "glow": true
+    }
+  }
 }
