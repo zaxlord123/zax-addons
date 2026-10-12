@@ -1,12 +1,12 @@
 name = "Zax Addons"
 author = "zaxlord123"
-version = "6.9.0"
+version = "6.10.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9cd1c211cbe47a6e2083558abad974022ae4fb4f781f2a83bd9f96cb0d925272"
+hash = "fc95da9ddfc995674350c158d9ed93c456b1526fd8a00418c272620002accf4d"
 
 [versions]
 minecraft = "26.1.2"
