@@ -1,32 +1,32 @@
-# ⚡ Auto-update Zax Addons (Prism Launcher)
+# ⚡ Get Zax Addons with auto-update (Prism Launcher)
 
-Do this **once**. After that, every time you press **Play**, Prism checks for a new Zax Addons version and installs it for you.
+## Easiest: one link (recommended)
+1. Open **Prism Launcher** → **Add Instance** → **Import**.
+2. Paste this link and press **OK**:
 
-## 1. Download the updater
-Download **`packwiz-installer-bootstrap.jar`** from the official page:
-https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest
+```
+https://github.com/zaxlord123/zax-addons/raw/main/ZaxAddons-Prism.zip
+```
 
-## 2. Put it in your instance folder
-1. In Prism, right-click your Minecraft 26.1.2 instance → **Folder**.
-2. Open the **`minecraft`** folder (the one that has `mods` inside).
-3. Put `packwiz-installer-bootstrap.jar` there (next to the `mods` folder, **not** inside it).
+3. Press **Play** on the new **Zax Addons** instance.
 
-## 3. Remove the old jar once
-Open the **`mods`** folder and delete any old **`zax-addons-…jar`** or **`aura-addons-…jar`**. The updater installs the right one for you.
+That's it. Minecraft 26.1.2, Fabric, Fabric API and Zax Addons install by themselves, and **every new version installs automatically each time you press Play**.
 
-## 4. Add the launch command
-1. In Prism, right-click the instance → **Edit** → **Settings** → **Custom commands**.
-2. Tick **Custom commands**.
-3. In **Pre-launch command**, paste exactly:
+> First time only: type `/za`, press **Paste from clipboard** with your access code, then **Activate**.
+
+---
+
+## Already have your own instance? (manual way)
+1. Download **`packwiz-installer-bootstrap.jar`**: https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest
+2. Prism → right-click your 26.1.2 instance → **Folder** → open **`minecraft`** → put the jar there (next to `mods`).
+3. Delete any old **`zax-addons-…jar`** / **`aura-addons-…jar`** from `mods`.
+4. Right-click the instance → **Edit** → **Settings** → **Custom commands** → tick it → **Pre-launch command**:
 
 ```
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/zaxlord123/zax-addons/main/pack/pack.toml
 ```
 
-4. Close the window and press **Play**.
+## Force an update
+Close Minecraft and press **Play** again. If it ever seems stuck, delete the `zax-addons-…jar` from `mods` and press Play.
 
-The first time, a small window shows it downloading Zax Addons, then Minecraft starts. From now on updates happen by themselves.
-
-> You still need **Fabric API** in your mods folder, and your **access code** (type `/za`, press **Paste from clipboard** then **Activate**).
-
-**Turn it off any time:** untick **Custom commands** in the same settings window.
+**Turn auto-update off:** untick **Custom commands** in the instance settings.
