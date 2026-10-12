@@ -2,5 +2,5 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/zax-addons.pw.toml"
-hash = "ed65b7f5ffedeb5ee5c2527b3a3097b35ecc8712bcf0922e94ae155a5718f60d"
+hash = "4cdfe145eb7101914e8d0e591b6bd91103d2b7054f96b1f018e4924667ee22ee"
 metafile = true
