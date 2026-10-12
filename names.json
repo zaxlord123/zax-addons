@@ -1,3 +1,18 @@
 {
-  "names": []
+  "names": [
+    {
+      "name": "parakeett",
+      "style": 3,
+      "color1": 16732120,
+      "color2": 6091007,
+      "prefix": 2,
+      "suffix": 0,
+      "bold": true,
+      "animated": true,
+      "enabled": true,
+      "crown": false,
+      "look": 0,
+      "display": "emilyodem"
+    }
+  ]
 }
