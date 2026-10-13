@@ -1,5 +1,17 @@
 {
-  "players": {},
-  "signed": "{}",
-  "sig": "wZbfHIYhTu7IBOFda1PrdBpE7RaDqTpnlSGPq6mGpg+SYBMiJVt4q0712bwRefXMCPGV5S4nEDFJu/vYpvPtCQ\u003d\u003d"
+  "players": {
+    "ZaxxLord": {
+      "items": [
+        "Kippah"
+      ],
+      "color": 11534362,
+      "color2": 2752517,
+      "rainbow": false,
+      "glow": true,
+      "capeStyle": 0,
+      "capeEmblem": 0
+    }
+  },
+  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
+  "sig": "biNX7ePA+DhFL2vhCiOjhUOnO+kihM7LJeLl5ZNhkRSa1GHv3lbvtsE+Bkq1VDLIsazRVRafqt1r1ensDF6qCg\u003d\u003d"
 }
