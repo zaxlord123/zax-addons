@@ -32,12 +32,12 @@
       ],
       "color": 11534362,
       "color2": 2752517,
-      "rainbow": false,
+      "rainbow": true,
       "glow": true,
       "capeStyle": 0,
       "capeEmblem": 0
     }
   },
-  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\",\"Menorah\",\"Sparkles\",\"Cat ears\",\"Fox ears\",\"Devil horns\",\"Bunny ears\",\"Halo\",\"Crown\",\"Party hat\",\"Top hat\",\"Witch hat\",\"Sunglasses\",\"Scarf\",\"Headphones\",\"Cat tail\",\"Fox tail\",\"Wings\",\"Devil tail\",\"Dragon wings\",\"Butterfly wings\",\"Floor ring\",\"Orbit\",\"Cape\",\"Jetpack\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
-  "sig": "6WYYq+dTNH8jW0w6CyhZ0YxsxmYV2VmjMTlmdRSQSKdf5QOtN2rfOyurxNd716kD/2ywt+nQE02onVT+U3zVDw\u003d\u003d"
+  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\",\"Menorah\",\"Sparkles\",\"Cat ears\",\"Fox ears\",\"Devil horns\",\"Bunny ears\",\"Halo\",\"Crown\",\"Party hat\",\"Top hat\",\"Witch hat\",\"Sunglasses\",\"Scarf\",\"Headphones\",\"Cat tail\",\"Fox tail\",\"Wings\",\"Devil tail\",\"Dragon wings\",\"Butterfly wings\",\"Floor ring\",\"Orbit\",\"Cape\",\"Jetpack\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":true,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
+  "sig": "8ioXvgrBMK+afzpJ3MD0kLmuAFCoP82V7AHaJEVVf5korTKfGip6kkweC7aF0o8xk9SoWhHXOnEtkxxcS4eHDA\u003d\u003d"
 }
