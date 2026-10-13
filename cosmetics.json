@@ -1,20 +1,16 @@
 {
   "players": {
-    "oloking12345": {
+    "ZaxxLord": {
       "items": [
-        "Halo",
-        "Wings",
-        "Crown",
-        "Cape",
-        "Cat ears",
-        "Cat tail",
-        "Devil horns",
-        "Fox tail"
+        "Dragon wings",
+        "Party hat"
       ],
       "color": 11534362,
       "color2": 2752517,
       "rainbow": false,
       "glow": true
     }
-  }
+  },
+  "signed": "{\"ZaxxLord\":{\"items\":[\"Dragon wings\",\"Party hat\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true}}",
+  "sig": "9LXqw8i7wNaADGHc7SpWdzoFFck4SNs+Vz5A+dfBhxR9L2PugLbEnP7e4AtfZnympGXkyweCE8+8POPLqkoWAA\u003d\u003d"
 }
