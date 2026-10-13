@@ -2,7 +2,9 @@
   "players": {
     "ZaxxLord": {
       "items": [
-        "Kippah"
+        "Kippah",
+        "Tallit",
+        "Star of David"
       ],
       "color": 11534362,
       "color2": 2752517,
@@ -12,6 +14,6 @@
       "capeEmblem": 0
     }
   },
-  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
-  "sig": "biNX7ePA+DhFL2vhCiOjhUOnO+kihM7LJeLl5ZNhkRSa1GHv3lbvtsE+Bkq1VDLIsazRVRafqt1r1ensDF6qCg\u003d\u003d"
+  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
+  "sig": "01jEbKFY17TtOZn6EKeX5vp+23USncqrNYiOuFzFeAT2y/sYWLlNyDx5KIiEVL8bEml5rILRRzwJwh2nnky9BQ\u003d\u003d"
 }
