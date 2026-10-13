@@ -16,10 +16,10 @@
     },
     {
       "name": "purestwhitedye",
-      "style": 1,
+      "style": 3,
       "color1": 16732120,
       "color2": 6091007,
-      "prefix": 1,
+      "prefix": 3,
       "suffix": 0,
       "bold": true,
       "animated": true,
@@ -29,6 +29,6 @@
       "display": "cholrineboy"
     }
   ],
-  "signed": "[{\"name\":\"parakeett\",\"style\":5,\"color1\":16732120,\"color2\":6091007,\"prefix\":2,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"idc_its_BRUTAL\"},{\"name\":\"purestwhitedye\",\"style\":1,\"color1\":16732120,\"color2\":6091007,\"prefix\":1,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"cholrineboy\"}]",
-  "sig": "j1XU+P4xNQDns3GKZhqyMhthq0V/SAaSfK/8sX8crXyIrroh6WOo86r89BS7aoryKACnFFWPoB0BXarIYm5gCg\u003d\u003d"
+  "signed": "[{\"name\":\"parakeett\",\"style\":5,\"color1\":16732120,\"color2\":6091007,\"prefix\":2,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"idc_its_BRUTAL\"},{\"name\":\"purestwhitedye\",\"style\":3,\"color1\":16732120,\"color2\":6091007,\"prefix\":3,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"cholrineboy\"}]",
+  "sig": "Kr3jo75BuI9pTVB0paObCrYB6uBe2nmrTpzcvCwwlhE/MbXOPGbgLalozwhrNz0kfPzPYVzV9ZO8PeUIM9X1AA\u003d\u003d"
 }
