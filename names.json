@@ -12,9 +12,9 @@
       "enabled": true,
       "crown": false,
       "look": 0,
-      "display": "ParaDik9"
+      "display": "the goat"
     }
   ],
-  "signed": "[{\"name\":\"parakeett\",\"style\":5,\"color1\":16732120,\"color2\":6091007,\"prefix\":2,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"ParaDik9\"}]",
-  "sig": "ZrSewDePylnVd3gbYBnOHhTjIdcg/wLjgFkFRUJayVuoiWgXepuHLDUhavOaXFD7ijjJ2pFwdkBAI6DVx6RmCA\u003d\u003d"
+  "signed": "[{\"name\":\"parakeett\",\"style\":5,\"color1\":16732120,\"color2\":6091007,\"prefix\":2,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"the goat\"}]",
+  "sig": "I3Theenlj/LMHcwXfLEhZVN3npbflx8Gn+Y32K0DayaE1XXBWusrQT6Nua+9B0vDYgFq74KIo0F8sn7b3YoOCg\u003d\u003d"
 }
