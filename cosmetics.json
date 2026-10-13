@@ -6,7 +6,17 @@
         "Tallit",
         "Star of David",
         "Menorah",
-        "Sparkles"
+        "Sparkles",
+        "Cat ears",
+        "Fox ears",
+        "Devil horns",
+        "Bunny ears",
+        "Halo",
+        "Crown",
+        "Party hat",
+        "Top hat",
+        "Witch hat",
+        "Sunglasses"
       ],
       "color": 11534362,
       "color2": 2752517,
@@ -16,6 +26,6 @@
       "capeEmblem": 0
     }
   },
-  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\",\"Menorah\",\"Sparkles\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
-  "sig": "HKufO4DGnDbJQ+Sf5a3WRQOM9WIQ8znReO7aP0jsk1KsRmUKQl2Hy08z65Aietgd1HJVJ35fHEolE9LP8NX3Bw\u003d\u003d"
+  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\",\"Menorah\",\"Sparkles\",\"Cat ears\",\"Fox ears\",\"Devil horns\",\"Bunny ears\",\"Halo\",\"Crown\",\"Party hat\",\"Top hat\",\"Witch hat\",\"Sunglasses\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":false,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
+  "sig": "qye94GUc/LZnYO5eskke2JsC4lFdXhZ6emy53p6Gqg6AMSWn5tcwNSk7v8MAugFHNDEEp9h+6I0DDkYQZ53SBA\u003d\u003d"
 }
