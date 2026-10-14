@@ -5,7 +5,8 @@
         "Kippah",
         "Tallit",
         "Star of David",
-        "Menorah"
+        "Menorah",
+        "Bunny ears"
       ],
       "color": 11534362,
       "color2": 2752517,
@@ -15,6 +16,6 @@
       "capeEmblem": 0
     }
   },
-  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\",\"Menorah\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":true,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
-  "sig": "pt76HlO9CZdo1wNRZxjITtOLHJmiTKxpuuaEuiveWQskaQ8He686aDbr6mTIBmB+hjJOGRheDIfjBsp69G8TCw\u003d\u003d"
+  "signed": "{\"ZaxxLord\":{\"items\":[\"Kippah\",\"Tallit\",\"Star of David\",\"Menorah\",\"Bunny ears\"],\"color\":11534362,\"color2\":2752517,\"rainbow\":true,\"glow\":true,\"capeStyle\":0,\"capeEmblem\":0}}",
+  "sig": "X968E0cL1JuxqP6aIC3JCiQ+XR7gZH/zPvgJRMsqbcoyku7Lnuo8rLD8Xh86Bb+EFlmaLjkdDAnxkMETrKc3DQ\u003d\u003d"
 }
