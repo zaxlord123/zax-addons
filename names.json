@@ -30,7 +30,7 @@
     },
     {
       "name": "zaxxlord",
-      "style": 1,
+      "style": 11,
       "color1": 16732120,
       "color2": 6091007,
       "prefix": 1,
@@ -38,11 +38,11 @@
       "bold": true,
       "animated": true,
       "enabled": true,
-      "crown": true,
+      "crown": false,
       "look": 0,
       "display": "zaxlord"
     }
   ],
-  "signed": "[{\"name\":\"parakeett\",\"style\":5,\"color1\":16732120,\"color2\":6091007,\"prefix\":12,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"Paragay\"},{\"name\":\"purestwhitedye\",\"style\":3,\"color1\":16732120,\"color2\":6091007,\"prefix\":13,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"chlorineboy\"},{\"name\":\"zaxxlord\",\"style\":1,\"color1\":16732120,\"color2\":6091007,\"prefix\":1,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":true,\"look\":0,\"display\":\"zaxlord\"}]",
-  "sig": "j1y311dvfIL6thow4YUVcKbIy8aMHljTmuxym4MpoqesMACQ8lPI9rConTfndFZp4YudW9TE8woqddDUxEM4Ag\u003d\u003d"
+  "signed": "[{\"name\":\"parakeett\",\"style\":5,\"color1\":16732120,\"color2\":6091007,\"prefix\":12,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"Paragay\"},{\"name\":\"purestwhitedye\",\"style\":3,\"color1\":16732120,\"color2\":6091007,\"prefix\":13,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"chlorineboy\"},{\"name\":\"zaxxlord\",\"style\":11,\"color1\":16732120,\"color2\":6091007,\"prefix\":1,\"suffix\":0,\"bold\":true,\"animated\":true,\"enabled\":true,\"crown\":false,\"look\":0,\"display\":\"zaxlord\"}]",
+  "sig": "qbM6iYd0FYn781ZVb/iUPj+sY8XwPqUpyca4b+RNoDWwJtDLXZOdiw2RlbsFrv2qnfa6hipLfdnGqPQS3wVTAQ\u003d\u003d"
 }
